@@ -53,19 +53,19 @@ img {
 
 .text {
   font-family: 'IBM Plex Sans Condensed', sans-serif;
-  font-size: 22px;
+  font-size: 29px;
   
 }
 
 p {
   font-family: 'IBM Plex Sans Condensed', sans-serif;
-  font-size: 16px;
-  color: white;
+  font-size: 23px;
+  
 }
 
 ul {
   font-family: 'IBM Plex Sans Condensed', sans-serif;
-  font-size: 16px;
+  font-size: 23px;
 }
 .button {
   background: #40A0E0; 
@@ -83,7 +83,7 @@ h2 {
 .panel-info {
   padding: 40px;
   /* font-family: 'Roboto', sans-serif light; */
-  font-size: 20px;
+  font-size: 30px;
   color: white;
   /* background: green; */
   margin: 300px;
@@ -95,6 +95,7 @@ h2 {
 .coming-soon {
   padding: 100px;
   width: 60%;
+  font-size: 20px;
 }
 
 footer {
@@ -102,7 +103,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  color: #232DEE;
+  color: #40A0E0;
  
   text-align: center;
 }
@@ -110,5 +111,6 @@ footer {
 .terms{
   padding: 10px;
   margin: 10px;
+  color: #40A0E0
 }
 
