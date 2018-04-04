@@ -112,6 +112,7 @@ img {
   p {
     font-family: 'IBM Plex Sans Condensed', sans-serif;
     font-size: 23px;
+    color: white;
   } 
   ul {
     font-family: 'IBM Plex Sans Condensed', sans-serif;
@@ -139,7 +140,9 @@ img {
     p {
     font-family: 'IBM Plex Sans Condensed', sans-serif;
     font-size: 13px;
+    color: white;
     } 
+   
 ul {
     font-family: 'IBM Plex Sans Condensed', sans-serif;
     font-size: 13px;
